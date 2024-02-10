@@ -1,1 +1,5 @@
 Según la informacion de la guía, las carpetas vacias no se consideran cambio, por tal motivo es que no dejó hacer el commit, y como ahora la carpeta tiene no esta vacia, puedo hcer el commit
+Sebastian Guerra Guerra, 18 años de edad
+Quiero poder llegar a entender el codigo, debido a que la programacion orientada a objetos es muy común en muchos proyecto.
+Ademas poder desarrollar mejores capacidades como profesional, de cara a tener una mejor carrera
+es importante tener cuidado al modificar dos archivos al mismo tiempo, debido a que podemos borrar informacion importante, o dañar parte importante del proyecto.
