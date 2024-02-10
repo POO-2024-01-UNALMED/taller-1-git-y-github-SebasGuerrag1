@@ -1,0 +1,1 @@
+Según la informacion de la guía, las carpetas vacias no se consideran cambio, por tal motivo es que no dejó hacer el commit, y como ahora la carpeta tiene no esta vacia, puedo hcer el commit
